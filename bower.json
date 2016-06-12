@@ -1,6 +1,6 @@
 {
   "name": "simple-getter-setter",
-  "description": "",
+  "description": "simple getter-setter function.",
   "main": "dist/simple-getter-setter.umd.js",
   "authors": [
     "Suzuki Shunsuke <suzuki.shunsuke.1989@gmail.com>"

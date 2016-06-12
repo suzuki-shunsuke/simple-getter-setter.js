@@ -1,8 +1,10 @@
 {
   "name": "simple-getter-setter",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple getter-setter function.",
+  "main": "dist/simple-getter-setter.umd.js",
   "scripts": {
+    "prepublish": "npm run webpack",
     "test": "npm run test:node",
     "test:node": "mocha test/node/main.js",
     "webpack": "webpack",
