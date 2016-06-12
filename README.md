@@ -1,5 +1,7 @@
 # simple-getter-setter.js
 
+[![Build Status](https://travis-ci.org/suzuki-shunsuke/simple-getter-setter.js.svg?branch=develop)](https://travis-ci.org/suzuki-shunsuke/simple-getter-setter.js)
+
 The simple getter-setter function.
 This library is inspired to the [Mithril.js's m.prop function](http://mithril.js.org/mithril.prop.html).
 
